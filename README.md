@@ -4,7 +4,6 @@
 ![a](https://github.com/user-attachments/assets/2758fd9d-350f-491e-94ac-203c012aeba5)
 
 
-<!--
 **A-Sel-le-gusta-la-pasta-carbonara/A-Sel-le-gusta-la-pasta-carbonara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Sobre mí:
